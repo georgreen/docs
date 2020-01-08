@@ -195,7 +195,7 @@ Up until now, our sample code snippets have largely only included the basic para
         </tr>
         <tr>
             <td>support_pills</td>
-            <td>An optional boolean key. When true, this field doesn't allow datapills to be mapped to it. This parameter often doesn't need to be configured.
+            <td>An optional boolean key. When false, this field doesn't allow datapills to be mapped to it. This parameter often doesn't need to be configured.
             </td>
         </tr>
         <tr>
